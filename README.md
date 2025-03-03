@@ -1,8 +1,11 @@
-# PFIS
-PRINCIPIOS Y FUNDAMENTOS DE LA INGENIERÍA DEL SOFTWARE
-# Proyecto en C++
+# ACTIVIDAD 1
 
-Este repositorio contiene un proyecto en C++ con los siguientes archivos:
+# Proyecto en C++
+//Se quiere obtener una hoja para pasar lista de asistencia con todos los alumnos del curso con nombre y apellidos. Los alumnos se obtienen de una hoja excel en //formato .csv.
+//La hoja de asistencia debe tener a los alumnos ordenados alfabéticamente en dos columnas en grupos de 8 en 8 (como si fuesen los bits de un byte).
+//La hoja de asistencia debe tener un encabezado con el nombre de la asignatura (en este caso PFIS), la fecha, la semana de docencia y el tema de la asignatura.
+//La hoja de asistencia debe poder obtenerse en un formato que se pueda imprimir fácilmente.
+//Este repositorio contiene un proyecto en C++ con los siguientes archivos:
 | Archivo         | Descripción                             | Tipo           |
 |---------------|-------------------------------------|--------------|
 | [`bin/`](bin/)       | Carpeta de archivos binarios        | Carpeta      |
